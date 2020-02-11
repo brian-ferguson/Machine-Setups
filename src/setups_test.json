@@ -1,0 +1,187 @@
+[
+    {
+        "setup": "Default Bostomatic 405 - MDSI - Nikken 250F - C-Table Setup",
+        "manufacturer": "Bostomatic",
+        "model": "405"
+    },
+    {
+        "setup": "Default Bostomatic 405 (MDSI) Setup TC",
+        "manufacturer": "Bostomatic",
+        "model": "405"
+    },
+    {
+        "setup": "Default Bostomatic 405 (MDSI) Setup",
+        "manufacturer": "Bostomatic",
+        "model": "405"
+    },
+    {
+        "setup": "Default Bostomatic 405 Setup",
+        "manufacturer": "Bostomatic",
+        "model": "405"
+    },
+    {
+        "setup": "Default Bostomatic 505 (MDSI) Setup",
+        "manufacturer": "Bostomatic",
+        "model": "505"
+    },
+    {
+        "setup": "Default Bostomatic 505 Setup",
+        "manufacturer": "Bostomatic",
+        "model": "505"
+    },
+    {
+        "setup": "Default Bostomatic 505X (MDSI) Setup",
+        "manufacturer": "Bostomatic",
+        "model": "505X"
+    },
+    {
+        "setup": "Default Bostomatic 505X Setup",
+        "manufacturer": "Bostomatic",
+        "model": "505X"
+    },
+    {
+        "setup": "Default Bostomatic 605 Setup",
+        "manufacturer": "Bostomatic",
+        "model": "605"
+    },
+    {
+        "setup": "Default Brother M200X3 - CNC-C00 - ISO - 10K Setup",
+        "manufacturer": "Brother",
+        "model": "M200X3"
+    },
+    {
+        "setup": "Default Brother M300X3 - CNC-C00 - ISO - 10K Setup",
+        "manufacturer": "Brother",
+        "model": "M300X3"
+    },
+    {
+        "setup": "Default Brother MX140X2 - CNC-C00 - ISO - 10K Setup",
+        "manufacturer": "Brother",
+        "model": "MX140X2"
+    },
+    {
+        "setup": "Default Brother R650X1 - CNC-C00 - ISO - 10K Setup",
+        "manufacturer": "Brother",
+        "model": "R650X1"
+    },
+    {
+        "setup": "Default Brother S700X1 - CNC-C00 - ISO - 10K Setup",
+        "manufacturer": "Brother",
+        "model": "S700X1"
+    },
+    {
+        "setup": "Default DMG CMX 70 U - iTNC - ISO - 12K Setup",
+        "manufacturer": "DMG",
+        "model": "CMX 70 U"
+    },
+    {
+        "setup": "Default DMG CMX 70 U - S840D - ISO - 12K Setup",
+        "manufacturer": "DMG",
+        "model": "CMX 70 U"
+    },
+    {
+        "setup": "Default DMG DMC 1035 eVo - iTNC530 - 10K Setup",
+        "manufacturer": "DMG",
+        "model": "DMC 1035 eVo"
+    },
+    {
+        "setup": "Default DMG DMC 125 - S840D - HSK - 15K Setup",
+        "manufacturer": "DMG",
+        "model": "DMC 125"
+    },
+    {
+        "setup": "Default DMG DMU 100 - iTNC530 - 12K Setup",
+        "manufacturer": "DMG",
+        "model": "DMU 100"
+    },
+    {
+        "setup": "Default DMG DMU 40 eVo - iTNC - HSK - 14K Setup",
+        "manufacturer": "DMG",
+        "model": "DMU 40 eVo"
+    },
+    {
+        "setup": "Default DMG DMU 40 eVo - S840D - HSK - 14K Setup",
+        "manufacturer": "DMG",
+        "model": "DMU 40 eVo"
+    },
+    {
+        "setup": "Default DMG DMU 50 3rd Gen - iTNC - ISO - 15K Setup",
+        "manufacturer": "DMG",
+        "model": "DMU 50 3rd Gen"
+    },
+    {
+        "setup": "Default DMG DMU 50 3rd Gen - S840D - ISO - 15K - 14505777004 Setup",
+        "manufacturer": "DMG",
+        "model": "DMU 50 3rd Gen"
+    },
+    {
+        "setup": "Default DMG DMU 50 3rd Gen - S840D - ISO - 15K Setup",
+        "manufacturer": "DMG",
+        "model": "DMU 50 3rd Gen"
+    },
+    {
+        "setup": "Default DMG DMU 50 eVo - iTNC530 - 10K Setup",
+        "manufacturer": "DMG",
+        "model": "DMU 50 eVo"
+    },
+    {
+        "setup": "Default DMG DMU 50 eVo - S840D - 10K Setup",
+        "manufacturer": "DMG",
+        "model": "DMU 50 eVo"
+    },
+    {
+        "setup": "Default DMG DMU 60 eVo - iTNC530 - 14K Setup",
+        "manufacturer": "DMG",
+        "model": "DMU 60 eVo"
+    },
+    {
+        "setup": "Default DMG DMU 60 eVo - iTNC530 Setup",
+        "manufacturer": "DMG",
+        "model": "DMU 60 eVo"
+    },
+    {
+        "setup": "Default DMG DMU 65 monoBLOCK - iTNC - HSK - 15k Setup",
+        "manufacturer": "DMG",
+        "model": "DMU 65 monoBLOCK"
+    },
+    {
+        "setup": "Default DMG DMU 75 MonoBLOCK - S840D - HSK - 20K - 12430010213 Setup",
+        "manufacturer": "DMG",
+        "model": "DMU 75 monoBLOCK"
+    },
+    {
+        "setup": "Default DMG DMU 75 MonoBLOCK - S840D - HSK - 20K - 12430012503 Setup",
+        "manufacturer": "DMG",
+        "model": "DMU 75 monoBLOCK"
+    },
+    {
+        "setup": "Default DMG DMU 75 MonoBLOCK - S840D - HSK - 20K Setup",
+        "manufacturer": "DMG",
+        "model": "DMU 75 monoBLOCK"
+    },
+    {
+        "setup": "Default DMG HSC 55 - iTNC - HSK - 18K - 29175051364 Setup",
+        "manufacturer": "DMG",
+        "model": "HSC 55"
+    },
+    {
+        "setup": "Default DMG HSC20 - iTNC - 42K Setup",
+        "manufacturer": "DMG",
+        "model": "HSC 20"
+    },
+    {
+        "setup": "Default DMG MillTap 700 - S840D - 24K - BT30 Setup",
+        "manufacturer": "DMG",
+        "model": "MillTap 700"
+    },
+    {
+        "setup": "Default DMU 80 (With TNC Controller) Setup",
+        "manufacturer": "DMG",
+        "model": "DMU 80"
+    },
+    {
+        "setup": "Default DMU 80 Setup",
+        "manufacturer": "DMG",
+        "model": "DMU 80"
+    }
+]
